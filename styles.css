@@ -1,0 +1,40 @@
+body {
+    background: green;
+  }
+  .quotes-info{
+    background:white;
+    position: relative;
+    width: 540px;
+    margin: 100px auto;
+    padding: 100px auto;
+    padding: 50px 50px 20px 50px;
+  }
+  #btn-nextQuote{
+    background-color: Crimson;
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  font-size: 16px;
+  margin: 0px 0px 0px 400px;
+  cursor: pointer;
+  }
+  .quotes-list{
+    text-align: center;
+    padding: 30px 22px;
+    margin: 2px 2px 20px 0px;
+    font-size: 1.75em;
+  }
+  .author{
+    text-align: right;
+    padding: 10px 50px 30px 20px;
+  }
+  .footer{
+    color: white;
+    text-align: center;
+    padding: 50px 22px;
+  }
+  a {
+  text-decoration: none;
+  color: #fff;
+}
