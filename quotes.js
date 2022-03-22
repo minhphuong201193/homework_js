@@ -39,3 +39,4 @@ function randomQuote() {
   updateQuote.addEventListener('click', () => {
    randomQuote();
 })
+randomQuote();
